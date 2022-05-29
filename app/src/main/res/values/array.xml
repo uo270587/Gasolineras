@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="precios_Combustible">
+        <item>@string/bioD</item>
+        <item>@string/bioetanol</item>
+        <item>@string/GasNAturalComprimido</item>
+        <item>@string/gasGanaturalLicuado</item>
+        <item>@string/gasesLicuadoPetroleo</item>
+        <item>@string/gasoleoA</item>
+        <item>@string/gasoleoB</item>
+        <item>@string/gasoleoPremium</item>
+        <item>@string/gasolina95E10</item>
+        <item>@string/gasolina95E5</item>
+        <item>@string/gasolina95E5Premium</item>
+        <item>@string/gasolina98E10</item>
+        <item>@string/gasolina98E5</item>
+        <item>@string/hidrogeno</item>
+    </string-array>
+</resources>

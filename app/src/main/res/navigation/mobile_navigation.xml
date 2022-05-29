@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_ajustes">
+
+    <fragment
+        android:id="@+id/navigation_precio"
+        android:name="com.example.myapplication.ui.precio.PrecioFragment"
+        android:label="@string/title_por_precio"
+        tools:layout="@layout/fragment_precio" >
+        <action
+            android:id="@+id/action_navigation_precio_to_gasolineraDetalles"
+            app:destination="@id/gasolineraDetalles" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_mapa"
+        android:name="com.example.myapplication.mapa"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_mapa" />
+    <fragment
+        android:id="@+id/navigation_ajustes"
+        android:name="com.example.myapplication.AjustesFragment"
+        android:label="@string/title_ajustes"
+        tools:layout="@layout/fragment_ajustes" />
+    <fragment
+        android:id="@+id/gasolineraDetalles"
+        android:name="com.example.myapplication.GasolineraDetalles"
+        android:label="@string/detalle"
+        tools:layout="@layout/fragment_gasolinera_detalles" />
+</navigation>

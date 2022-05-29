@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/activity_main.xml" value="0.3490566037735849" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_ajustes.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_ccaa.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_dashboard.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_gasolinera_detalles.xml" value="0.536" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_home.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_item_list.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_mapa.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_municipio.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_precio.xml" value="0.19569120287253142" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_provincia.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/fragment_ubicacion.xml" value="0.536" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/layout/spinner_layout.xml" value="0.34148550724637683" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/arcar/Documents/proyectoindividual/app/src/main/res/xml/network_security_config.xml" value="0.190625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
